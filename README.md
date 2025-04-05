@@ -7,10 +7,6 @@ This repository contains a record of programming contests I've participated in w
 
 | Contest Name | Ranking | Type | Team Name |
 |-------------|---------|------|-----------|
-| CoU IT Fest Programming Contest | 1st | Divisional (Programming Contest) | CoU_Segment_Hero(Ahmed.097823) |
-| Premier University Programming Contest 2024 | 10th | Divisional (Programming Contest) | CoU_BinaryDebuggers |
-| Ahmed Zubayer IUPC, UITS | 22nd | National (Programming Contest) | CoU_01_Debuggers |
-| CUSS Presents IT Fiesta 2024 Inter University Programming Contest | 26th | Divisional (Programming Contest) | CoU_Skadooosh |
-| IUT 11th National ICT Fest Programming Contest 2024 | 39th | National (Programming Contest) | Skadooosh |
-| CoU-BRACNet Inter University Programming Contest 2023 | 40th | National (Programming Contest) | CoU_01_Debuggers |
-
+| [CoU IT Fest Programming Contest](https://toph.co/contests/training/qjqle8v/standings) | 10th | Divisional (Programming Contest) | Code_master(ebrahim_77) |
+| [Premier University Programming Contest 2024](https://media.licdn.com/dms/image/v2/D562DAQEI3pg8jqIPQQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1706517852147?e=1729450800&v=beta&t=fmHrVQ-IqUg8a1WvblbSDEvRqiclKlIIrDT65BE3UaI) | 10th | Divisional (Programming Contest) | CoU_BinaryDebuggers |
+| [IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | 43th | Divisional (Programming Contest) | CoU_01_Debuggers |
