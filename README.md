@@ -1,4 +1,4 @@
-# Programming Contest Portfolio
+# Programming Contest
 
 ## Overview
 This repository contains a record of programming contests I've participated in with my team. 
